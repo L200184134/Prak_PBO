@@ -24,17 +24,7 @@ public class TUGAS2 {
         JMenuItem kuning = new JMenuItem("Kuning");
         JMenuItem hijau = new JMenuItem("Hijau");
         
-        /*if(merah.isSelected()){
-            frame.setBackground(Color.red);
-        }
-        
-        if(kuning.isSelected()){
-            frame.setBackground(Color.yellow);
-        }
-        if(hijau.isSelected()){
-            frame.setBackground(Color.green);
-        }
-        */
+
         JPanel panel = new JPanel();
         panel.setBounds(0, 0, 500, 500);
         
